@@ -1,0 +1,29 @@
+[
+    {
+        "gst": "07AACCM9910C1ZP",
+       "status": "Active",
+        "name": "Masters India Private Limted",
+        "ppofBusiness": "K 37, Floor-,, Mandoli Industrial Area, North East, Delhi, Delhi, 110093",
+        "apofBusiness": "Floor",
+        "statejur": "Ward 74",
+        "centraljur": "RANGE - 139",
+        "taxpayType": "Regular",
+        "ConofBusiness" :"Private Limited Company",
+        "dor" : "01/07/2017",
+        "doc" : "--"
+    },
+   {
+        "gst": "07AACCM9910C000",
+       "status": "NotActive",
+        "name": "Dummy Private Limited",
+        "ppofBusiness": "A72-8, Floor-2,, Saket , South, Delhi, Delhi, 110008",
+        "apofBusiness": "Floor",
+        "statejur": "Ward 20",
+        "centraljur": "RANGE - 111",
+        "taxpayType": "Regular",
+        "ConofBusiness" :"Private Limited Company",
+        "dor" : "01/07/2012",
+        "doc" : "01/07/2016"
+    }
+   
+]
